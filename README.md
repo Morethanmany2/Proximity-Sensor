@@ -1,3 +1,4 @@
 # Proximity-Sensor
 
-["C:\Users\ADMIN\Desktop\Portfolio\images\project1.jpeg"](url)
+![project1](https://github.com/user-attachments/assets/3c522066-fd25-4392-802e-bbf0be83dac2)
+
